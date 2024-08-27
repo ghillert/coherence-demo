@@ -1,0 +1,4 @@
+= Getting Started
+
+- curl --request POST 'http://localhost:8080'
+- curl --request GET 'http://localhost:8080'
